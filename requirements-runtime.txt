@@ -1,0 +1,8 @@
+# Shared by requirements.txt and the Conda setup script; no PyTorch reinstall here.
+numpy
+Pillow
+PyYAML
+tqdm
+matplotlib
+scikit-image
+tifffile

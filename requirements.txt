@@ -1,0 +1,4 @@
+# Python 3.10+. Install a CUDA-compatible PyTorch build first on GPU servers.
+torch>=2.0
+torchvision>=0.15
+-r requirements-runtime.txt
