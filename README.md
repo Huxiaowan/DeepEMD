@@ -1,4 +1,4 @@
-# DeepEMD: Accelerating rare ultrastructure search with AI-enhanced electron microscopy<img width="432" height="93" alt="image" src="https://github.com/user-attachments/assets/234c1e4c-0699-47cb-aebf-7c6cbe5fd7f3" />
+# DeepEMD: Accelerating rare ultrastructure search with AI-enhanced electron microscopy
 
 
 <p align="center">
