@@ -107,13 +107,11 @@ source scripts/activate_deepemd_env.sh
 
 The `config/` directory contains selected configurations.
 
-#### INR (default configuration)
-
 ```bash
 python run_deepemd.py \
   --input /data/volume.tif \
-  --config config/r9a_inr_baseline_decoder_pe6_noanneal_tilek64.yml \
-  --output results/volume_inr \
+  --config deepemd.yml \
+  --output results/volume_output \
   --gpu 5
 ```
 
